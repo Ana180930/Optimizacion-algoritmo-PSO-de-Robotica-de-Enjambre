@@ -15,10 +15,10 @@ En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que 
 
 ### Matlab
 - [MPSO_pololu_original.lxs](#MPSO_pololu_original.lxs)
-- [MPSO_modified.m](#MPSO_modified.m)
-- [MPSO_simulado.m](#MPSO_simulado.m)
-- [MPSO_APF_simulado_4.m](#MPSO_APF_simulado_4.m)
-- [MPSO_APF_pololu.m](#MPSO_APF_pololu.m)
+- [MPSO_modified.lxs](#MPSO_modified.lxs)
+- [MPSO_simulado.lxs](#MPSO_simulado.lxs)
+- [MPSO_APF_simulado.lxs](#MPSO_APF_simulado.lxs)
+- [MPSO_APF_pololu.lxs](#MPSO_APF_pololu.lxs)
 
 ### MPSO_pololu_original.lxs
 El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+, este live script explica de forma detallada cada parte del código. Es importante mencionar algunas modificaciones realizadas para el correcto funcionamiento del MPSO:
@@ -41,9 +41,17 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
 *Imagen de alguna prueba, video o animacion
 
 
+### MPSO_modified.lxs
+El live script **MPSO_modified.lxs** describe las modificaciones que se realizaron al algoritmo MPSO utilizando vectorización para el cálculo del costo y el cálculo de las incercias.
 
+### MPSO_simulado.lxs
+El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO utilizando cierta cantidad de partículas. 
 
+### MPSO_APF_simulado.lxs
+El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO utilizando campos artificiales potenciales para la evasión de obstáculos con cierta cantidad de partículas.
 
+### MPSO_APF_pololu.lxs
+El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales potenciales modificado para su funcionamiento con los agentes robóticos Pololu 3pi+ y el ecosistema Robotat.
 
 ## Software y hardware
 Detalles sobre software y hardware...
