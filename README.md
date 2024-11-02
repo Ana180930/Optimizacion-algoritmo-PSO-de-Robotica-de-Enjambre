@@ -14,14 +14,14 @@ Al darle click a la imagen podrás ver una lista de videos sobre los experimento
 En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle al funcionamiento y el uso de algoritmos.
 
 ### Matlab
-- [MPSO_pololu.m](#MPSO_pololu.m)
+- [MPSO_pololu_original.lxs](#MPSO_pololu_original.lxs)
 - [MPSO_modified.m](#MPSO_modified.m)
 - [MPSO_simulado.m](#MPSO_simulado.m)
 - [MPSO_APF_simulado_4.m](#MPSO_APF_simulado_4.m)
 - [MPSO_APF_pololu.m](#MPSO_APF_pololu.m)
 
-### MPSO_pololu.m
-El script **MPSO_pololu.m** utiliza un algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+. Algunas modificaciones realizadas para el correcto funcionamiento del MPSO son las siguientes:
+### MPSO_pololu_original.lxs
+El script **MPSO_pololu_original.lxs** utiliza un algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+. Algunas modificaciones realizadas para el correcto funcionamiento del MPSO son las siguientes:
 
 - **Controlador PID**
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
@@ -35,6 +35,11 @@ El script **MPSO_pololu.m** utiliza un algoritmo de optimización llamado _Parti
 - **Radio de convergencia**
     Se definió este radio para medir si los agentes lograron llegar a un área cercana a la meta. 
     (agregar imagen)
+
+- **No colisiones entre los agentes robóticos**
+
+*Imagen de alguna prueba, video o animacion
+
 
 
 
