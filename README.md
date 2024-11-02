@@ -25,7 +25,11 @@ El script **MPSO_pololu.m** utiliza un algoritmo de optimización llamado _Parti
 
 - **Controlador PID**
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
-    <img src="Figuras/pololu_wheel.png" alt="Distancia entre ruedas" width="500" height="500">
+
+    <div align="center">
+        <img src="Figuras/pololu_wheel.png" alt="Distancia entre ruedas Pololu 3pi+" width="300">
+    </div>
+
 
 
 
