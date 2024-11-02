@@ -30,8 +30,11 @@ El script **MPSO_pololu.m** utiliza un algoritmo de optimización llamado _Parti
         <img src="Figuras/pololu_wheel.png" alt="Distancia entre ruedas Pololu 3pi+" width="200"><br>
     </div>
 
-    
-
+    - Ángulo de rotación: Hace que el offset entre el eje del marker y el eje x+ del robot diferencial sea 0, alineando ambos ejes. Los ángulos de rotación se utilizan en grados.
+    (imagen)
+- **Radio de convergencia**
+    Se definió este radio para medir si los agentes lograron llegar a un área cercana a la meta. 
+    (agregar imagen)
 
 
 
