@@ -27,7 +27,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
     
     <br><div align="center">
-        <img src="Figuras/pololu_wheel.png" alt="Distancia entre ruedas Pololu 3pi+" width="400"><br>
+        <img src="Figuras/pololu_wheel.png" alt="Distancia entre ruedas Pololu 3pi+" width="200"><br>
     </div>
 
     - Ángulo de rotación: Hace que el offset entre el eje del marker y el eje x+ del robot diferencial sea 0, alineando ambos ejes. Los ángulos de rotación se utilizan en grados.
@@ -36,7 +36,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     Se definió este radio para medir si los agentes logran llegar a un área cercana a la meta. 
 
     <br><div align="center">
-        <img src="Figuras/radio_convergencia.png" width="200" height="auto" alt="Radio de convergencia"><br>
+        <img src="Figuras/radio_convergencia.png" width="400" height="auto" alt="Radio de convergencia"><br>
     </div>
     
 
