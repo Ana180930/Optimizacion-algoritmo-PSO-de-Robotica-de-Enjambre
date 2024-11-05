@@ -50,10 +50,10 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_ 
 
 ### MPSO_modified.lxs
-El live script **MPSO_modified.lxs** describe las modificaciones que se realizaron al algoritmo MPSO utilizando vectorización para el cálculo del costo y el factor de incercias.
+El live script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, el factor de incercia y controlador PID.
 
 ### MPSO_simulado.lxs
-El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO utilizando cierta cantidad de partículas. 
+El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO, utilizando cierta cantidad de partículas. 
 
 ### MPSO_APF_simulado.lxs
 El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO utilizando campos artificiales potenciales para la evasión de obstáculos con cierta cantidad de partículas.
