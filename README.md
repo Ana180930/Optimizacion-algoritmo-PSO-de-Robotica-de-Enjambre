@@ -38,7 +38,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci√
 
 - **No colisiones entre los agentes rob√≥ticos**
 
-<img src="Figuras/schaffer_4.gif" width="600" height="auto">
+<img src="Figuras/schaffer_4.gif" width="800" height="auto">
 
 
 ### MPSO_modified.lxs
