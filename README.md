@@ -25,6 +25,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
 
 - **Controlador PID**
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
+    
     <br><div align="center">
         <img src="Figuras/pololu_wheel.png" alt="Distancia entre ruedas Pololu 3pi+" width="200"><br>
     </div>
