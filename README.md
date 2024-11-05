@@ -38,7 +38,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci√
 
 - **No colisiones entre los agentes rob√≥ticos**
 
-*Imagen de alguna prueba, video o animacion
+
 
 
 ### MPSO_modified.lxs
