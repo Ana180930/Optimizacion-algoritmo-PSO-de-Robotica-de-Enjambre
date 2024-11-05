@@ -37,9 +37,12 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     (agregar imagen)
 
 - **No colisiones entre los agentes robóticos**
+  
 <br><div align="center">
     <img src="Figuras/schaffer_4.gif" width="850" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
+
+Importante: Puedes encontrar el scrip _MPSO_pololu_original_ 
 
 ### MPSO_modified.lxs
 El live script **MPSO_modified.lxs** describe las modificaciones que se realizaron al algoritmo MPSO utilizando vectorización para el cálculo del costo y el cálculo de las incercias.
