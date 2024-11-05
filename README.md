@@ -33,7 +33,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     - Ángulo de rotación: Hace que el offset entre el eje del marker y el eje x+ del robot diferencial sea 0, alineando ambos ejes. Los ángulos de rotación se utilizan en grados.
     (imagen)
 - **Radio de convergencia**
-    Se definió este radio para medir si los agentes lograron llegar a un área cercana a la meta. 
+    Se definió este radio para medir si los agentes logran llegar a un área cercana a la meta. 
     (agregar imagen)
 
 - **No colisiones entre los agentes robóticos**
