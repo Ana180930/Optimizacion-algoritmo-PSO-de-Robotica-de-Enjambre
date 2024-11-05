@@ -36,7 +36,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     Se definió este radio para medir si los agentes logran llegar a un área cercana a la meta. 
 
     <br><div align="center">
-        <img src="Figuras/radio_convergencia.png" width="850" height="auto" alt="Radio de convergencia"><br>
+        <img src="Figuras/radio_convergencia.png" width="200" height="auto" alt="Radio de convergencia"><br>
     </div>
     
 
