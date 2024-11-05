@@ -41,7 +41,8 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     
 
 - **No colisiones entre los agentes robóticos**
-  
+
+**Experimento función optimización Schaffer 4**
 <br><div align="center">
     <img src="Figuras/schaffer_4.gif" width="850" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
