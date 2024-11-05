@@ -47,7 +47,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     <img src="Figuras/schaffer_4.gif" width="850" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
-Importante: Puedes encontrar el script en la carpeta _MPSO_pololu_original_ 
+Puedes encontrar el script en la carpeta _MPSO_pololu_original_ 
 
 ### MPSO_modified.lxs
 El live script **MPSO_modified.lxs** describe las modificaciones que se realizaron al algoritmo MPSO utilizando vectorización para el cálculo del costo y el factor de incercias.
