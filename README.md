@@ -44,7 +44,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
 
 **Experimento función optimización Schaffer 4**
 <br><div align="center">
-    <img src="Figuras/schaffer_4.gif" width="800" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/schaffer_4.gif" width="750" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_ 
@@ -57,7 +57,7 @@ El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO 
 
 **Experimento función de optimización meta**
 <br><div align="center">
-    <img src="Figuras/PSO_simulado.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/PSO_simulado.gif" width="450" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 ### MPSO_APF_simulado.lxs
@@ -65,7 +65,7 @@ El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO implemen
 
 **Experimento obstáculo rectangular**
 <br><div align="center">
-    <img src="Figuras/PSO_APF_simulado.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/PSO_APF_simulado.gif" width="450" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 ### MPSO_APF_pololu.lxs
