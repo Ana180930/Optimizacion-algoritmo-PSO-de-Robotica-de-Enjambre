@@ -57,7 +57,7 @@ El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO 
 
 **Experimento función de optimización meta**
 <br><div align="center">
-    <img src="Figuras/PSO_simulado.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/PSO_simulado.gif" width="650" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 ### MPSO_APF_simulado.lxs
