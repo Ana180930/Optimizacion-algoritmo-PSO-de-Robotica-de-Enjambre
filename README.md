@@ -25,6 +25,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
 
 - **Controlador PID**
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
+    
     <br><div align="center">
         <img src="Figuras/pololu_wheel.png" alt="Distancia entre ruedas Pololu 3pi+" width="250"><br>
     </div>
@@ -33,7 +34,8 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     (imagen)
 - **Radio de convergencia**
     Se definió este radio para medir si los agentes logran llegar a un área cercana a la meta. Si el radio es menor al radio máximo se considera que está dentro del área de convergencia y se detiene el algoritmo.
-    <br><div align="center">
+
+  <br><div align="center">
         <img src="Figuras/radio_convergencia.png" width="350" height="auto" alt="Radio de convergencia"><br>
     </div>
     
@@ -51,13 +53,13 @@ Puedes encontrar el script en la carpeta _MPSO_pololu_original_
 El live script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, el factor de incercia y el controlador PID.
 
 ### MPSO_simulado.lxs
-El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO, utilizando cierta cantidad de partículas. 
+El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cierta cantidad de partículas. 
 
 ### MPSO_APF_simulado.lxs
-El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO utilizando campos artificiales potenciales para la evasión de obstáculos con cierta cantidad de partículas.
+El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO implementando campos artificiales potenciales para la evasión de obstáculos con cierta cantidad de partículas.
 
 ### MPSO_APF_pololu.lxs
-El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales potenciales modificado para su funcionamiento con los agentes robóticos Pololu 3pi+ y el ecosistema Robotat.
+El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales potenciales modificado, para su funcionamiento con  agentes robóticos Pololu 3pi+ y el ecosistema Robotat.
 
 ### Webots 
 - [PSO_simulacion_original.wbt](#PSO_simulacion_original.wbt)
