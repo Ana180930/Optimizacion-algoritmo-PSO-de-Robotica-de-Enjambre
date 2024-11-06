@@ -63,7 +63,7 @@ El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO 
 ### MPSO_APF_simulado.lxs
 El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO implementando campos potenciales artificiales para la evasión de obstáculos con cierta cantidad de partículas. Este script también incluye un planificador que determina la mejor trayectoria, con menor costo, encontrada por el enjambre mediante el PSO y los campos potenciales.
 
-**Experimento obstáculo rectangular**
+**Experimento obstáculo rectangular con MPSO y APF**
 <br><div align="center">
     <img src="Figuras/PSO_APF_simulado.gif" width="450" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
