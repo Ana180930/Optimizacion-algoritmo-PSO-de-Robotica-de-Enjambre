@@ -53,7 +53,12 @@ Puedes encontrar el script en la carpeta _MPSO_pololu_original_
 El live script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, el factor de incercia y el controlador PID.
 
 ### MPSO_simulado.lxs
-El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cierta cantidad de partículas. 
+El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cierta cantidad de partículas. En este script puede definirse el objetivo o meta del enjambre.
+
+**Experimento función de optimización meta**
+<br><div align="center">
+    <img src="Figuras/pso_simulado.gif" width="850" height="auto" alt="Experimento función Schaffer 4"><br>
+</div>
 
 ### MPSO_APF_simulado.lxs
 El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO implementando campos artificiales potenciales para la evasión de obstáculos con cierta cantidad de partículas.
