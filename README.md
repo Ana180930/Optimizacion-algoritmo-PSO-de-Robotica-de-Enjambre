@@ -63,6 +63,11 @@ El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO 
 ### MPSO_APF_simulado.lxs
 El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO implementando campos artificiales potenciales para la evasión de obstáculos con cierta cantidad de partículas.
 
+**Experimento obstáculo rectangular**
+<br><div align="center">
+    <img src="Figuras/PSO_APF_simulado.gif" width="650" height="auto" alt="Experimento función Schaffer 4"><br>
+</div>
+
 ### MPSO_APF_pololu.lxs
 El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales potenciales modificado, para su funcionamiento con  agentes robóticos Pololu 3pi+ y el ecosistema Robotat.
 
