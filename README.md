@@ -102,9 +102,9 @@ Este mundo contiene la simulación del algoritmo PSO con campos potenciales arti
 Los programas utilizados fueron Matlab y Webots, en la siguiente tabla se presentan las versiones que se utilizaron: 
 
 <div align="center">
-| **Matlab** | **Webots** | 
-|--------|--------|
-| R2022b | 2023b  | 
+    | **Matlab** | **Webots** | 
+    |--------|--------|
+    | R2022b | 2023b  | 
 </div>
 
 **Hardware**
