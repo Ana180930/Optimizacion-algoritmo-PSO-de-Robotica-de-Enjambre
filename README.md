@@ -79,6 +79,9 @@ El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales pot
 ### PSO_simulacion_original.wbt 
 Este mundo contiene la simulación del algoritmo MPSO original utilizando el entorno _Webots_. La estructura de la simulación se muestra a continuación:
 
+
+
+
 ### PSO_simulacion_4.wbt
 Este mundo contiene la simulación del algoritmo MPSO implementando un controlador PID vectorizado.
 
