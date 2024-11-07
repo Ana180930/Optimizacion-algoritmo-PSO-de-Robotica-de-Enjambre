@@ -101,9 +101,11 @@ Este mundo contiene la simulación del algoritmo PSO con campos potenciales arti
 **Software**
 Los programas utilizados fueron Matlab y Webots, en la siguiente tabla se presentan las versiones que se utilizaron: 
 
+<div align="center">
 | **Matlab** | **Webots** | 
 |--------|--------|
 | R2022b | 2023b  | 
+</div>
 
 **Hardware**
 El hardware que se utilizó fueron los agentes robóticos pololu 3pi+, las cámaras de movimiento OptiTrack y la mesa del Robotat.
