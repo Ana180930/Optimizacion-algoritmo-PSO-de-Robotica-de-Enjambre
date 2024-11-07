@@ -3,7 +3,7 @@ A continuación, se muestra una guía de como utilizar el algoritmo MPSO modific
 
 ## Tabla de Contenidos
 - [Videos demostrativos](#videos-demostrativos)
-- [Códigos y guía de uso](#códigos_y_guía_de_uso)
+- [Códigos y guía de uso](#códigos-y-guía-de-uso)
 - [Software y hardware](#software-y-hardware)
 - [Información adicional](#información-adicional)
 
