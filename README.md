@@ -85,6 +85,10 @@ Este mundo contiene la simulación del algoritmo MPSO implementando un controlad
 ### PSO_simulacion_APF.wbt
 Este mundo contiene la simulación del algoritmo PSO con campos potenciales artificiales para la evasión de obstáculos. Este algoritmo implementa cierta cantidad de partículas y agentes robóticos diferenciales.
 
+<br><div align="center">
+    <img src="Figuras/PSO_APF_webots.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
+</div>
+
 
 ## Software y hardware
 Detalles sobre software y hardware...
