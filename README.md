@@ -98,7 +98,11 @@ Este mundo contiene la simulación del algoritmo PSO con campos potenciales arti
 
 
 ## Software y hardware
-Detalles sobre software y hardware...
+**Matlab**
+
+
+
+**Webots**
 
 ## Información adicional
 Información adicional del proyecto...
