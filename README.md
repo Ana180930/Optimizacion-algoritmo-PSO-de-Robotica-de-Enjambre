@@ -14,11 +14,11 @@ Al darle click a la imagen podrás ver una lista de videos sobre los experimento
 En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle de los códigos que se utilizaron para realizar los experimentos.
 
 ### Matlab
-- [MPSO_pololu_original.lxs](#MPSO_pololu_original.lxs)
-- [MPSO_modified.lxs](#MPSO_modified.lxs)
-- [MPSO_simulado.lxs](#MPSO_simulado.lxs)
-- [MPSO_APF_simulado.lxs](#MPSO_APF_simulado.lxs)
-- [MPSO_APF_pololu.lxs](#MPSO_APF_pololu.lxs)
+- [MPSO_pololu_original.lxs](#MPSO-pololu-original.lxs)
+- [MPSO_modified.lxs](#MPSO-modified.lxs)
+- [MPSO_simulado.lxs](#MPSO-simulado.lxs)
+- [MPSO_APF_simulado.lxs](#MPSO-APF-simulado.lxs)
+- [MPSO_APF_pololu.lxs](#MPSO-APF-ololu.lxs)
 
 ### MPSO_pololu_original.lxs
 El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+, este live script explica de forma detallada cada parte del código. Es importante mencionar algunas modificaciones realizadas para el correcto funcionamiento del MPSO:
