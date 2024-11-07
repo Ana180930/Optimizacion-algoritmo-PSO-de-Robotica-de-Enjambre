@@ -108,6 +108,10 @@ Los programas utilizados fueron Matlab y Webots, en la siguiente tabla se presen
 **Hardware**
 El hardware que se utilizó fueron los agentes robóticos pololu 3pi+, las cámaras de movimiento OptiTrack y la mesa del Robotat.
 
+br><div align="center">
+    <img src="Figuras/pololu_png" width="300" height="auto" alt="Experimento función Schaffer 4"><br>
+</div>
+
 ## Información adicional
 Correo eléctronico: analbflores2001@gmail.com
 Celular: 30021157
