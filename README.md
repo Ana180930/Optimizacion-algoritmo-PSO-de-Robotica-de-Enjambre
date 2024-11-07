@@ -80,7 +80,7 @@ El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales pot
 Este mundo contiene la simulación del algoritmo MPSO original utilizando el entorno _Webots_. La estructura de la simulación se muestra a continuación:
 
 <br><div align="center">
-    <img src="Figuras/PSO_webots.gif" width="850" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/PSO_webots.gif" width="600" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 
