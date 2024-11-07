@@ -113,7 +113,8 @@ El hardware que se utilizó fueron los agentes robóticos pololu 3pi+, las cáma
     </div>
 
 ## Información adicional
-Correo eléctronico: analbflores2001@gmail.com
-Celular: 30021157
+- Correo eléctronico: analbflores2001@gmail.com
+- Celular: 30021157
+ 
 
 
