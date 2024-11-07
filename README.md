@@ -44,7 +44,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
 
 **Experimento función optimización Schaffer 4**
 <br><div align="center">
-    <img src="Figuras/schaffer_4.gif" width="750" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_ 
@@ -81,7 +81,7 @@ Este mundo contiene la simulación del algoritmo MPSO original utilizando el ent
 
 **Experimento función de costo Schaffer**
 <br><div align="center">
-    <img src="Figuras/PSO_webots.gif" width="550" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/PSO_webots.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 
@@ -93,7 +93,7 @@ Este mundo contiene la simulación del algoritmo MPSO implementando un controlad
 Este mundo contiene la simulación del algoritmo PSO con campos potenciales artificiales para la evasión de obstáculos. Este algoritmo implementa cierta cantidad de partículas y agentes robóticos diferenciales.
 
 <br><div align="center">
-    <img src="Figuras/APF_PSO_webots.gif" width="550" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/APF_PSO_webots.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 
