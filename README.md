@@ -98,7 +98,13 @@ Este mundo contiene la simulación del algoritmo PSO con campos potenciales arti
 
 
 ## Software y hardware
-**Matlab**
+En la siguiente tabla se muestran las versiones utilizadas en Matlab y Webots.
+
+| Matlab | Webots | 
+|--------|--------|
+| R2022b | 2023b  | 
+
+
 
 
 
