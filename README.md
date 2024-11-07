@@ -81,7 +81,7 @@ Este mundo contiene la simulación del algoritmo MPSO original utilizando el ent
 
 **Experimento función de costo Schaffer**
 <br><div align="center">
-    <img src="Figuras/PSO_webots.gif" width="600" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/PSO_webots.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 
