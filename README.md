@@ -11,7 +11,7 @@ A continuación, se muestra una guía de como utilizar el algoritmo MPSO modific
 Al darle click a la imagen podrás ver una lista de videos sobre los experimentos realizados en la optimización del algoritmo MPSO y el funcionamiento del algoritmo PSO con campos potenciales artifiales para la evasión de obstáculos.
 
 ## Códigos y guía de uso
-En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle al funcionamiento y el uso de algoritmos.
+En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle de los códigos que se utilizaron para realizar los experimentos.
 
 ### Matlab
 - [MPSO_pololu_original.lxs](#MPSO_pololu_original.lxs)
