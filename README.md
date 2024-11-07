@@ -44,7 +44,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
 
 **Experimento función optimización Schaffer 4**
 <br><div align="center">
-    <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/schaffer_4.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_ 
