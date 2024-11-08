@@ -1,5 +1,5 @@
 # Optimización del algoritmo de robótica de enjambre *Particle Swarm Optimization* para su implementación con agentes robóticos físicos en escenarios con obstáculos en el ecosistema Robotat 
-A continuación, se muestra una guía de como utilizar el algoritmo MPSO modificado, con campos potenciales artificiales para la evasión de obstáculos en el ecosistema Robotat. Y las modificaciones que se realizaron para la optimización del mismo.
+El algoritmo PSO se inspira en el comportamiento colectivo de ciertos animales para localizar alimento. A continuación, se presenta una optimización del algoritmo PSO mediante técnicas de vectorización y paralelización, así como su implementación con campos artificiales potenciales para la evasión de obstáculos.
 
 ## Tabla de Contenidos
 - [Videos demostrativos](#videos-demostrativos)
