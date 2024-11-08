@@ -29,7 +29,7 @@ En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que 
 - [MPSO_APF_pololu.lxs](#mpso_apf_pololulxs)
 
 ### MPSO_pololu_original.lxs
-El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+, este live script explica de forma detallada cada parte del código. Es importante mencionar algunas modificaciones realizadas para el correcto funcionamiento del MPSO:
+El live script **MPSO_pololu_original.lxs** presenta el algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+, este live script explica de forma detallada cada parte del código. Es importante mencionar algunas modificaciones realizadas para el correcto funcionamiento del MPSO:
 
 - **Controlador PID**
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
@@ -127,8 +127,8 @@ Todos los experimentos se realizaron utilizando la computadora Lenovo Legion 5 1
 </div>
 
 ## Información adicional
-- Correo eléctronico: analbflores2001@gmail.com
 - Celular: 30021157
+- Correo eléctronico: analbflores2001@gmail.com
  
 
 
