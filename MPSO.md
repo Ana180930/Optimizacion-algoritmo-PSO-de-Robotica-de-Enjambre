@@ -2,7 +2,7 @@
 <br><div align="center">
     <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
-
+<br>
 ### Índice
 - [MPSO_pololu_original.lxs](#mpso_pololu_originallxs)
 - [MPSO_modified.lxs](#mpso_modifiedlxs)
