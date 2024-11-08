@@ -13,8 +13,6 @@ Al darle click a la imagen podrás ver una lista de videos sobre los experimento
 [![Imagen en el repositorio](Figuras/robotat.JPEG)](https://www.youtube.com/playlist?list=PLzFnfpUH2HcghOW6Uw1g37CLO4F0z6kMn)
 
 
-
-
 ## Códigos y guía de uso
 En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle de los códigos que se utilizaron para realizar los experimentos.
 
