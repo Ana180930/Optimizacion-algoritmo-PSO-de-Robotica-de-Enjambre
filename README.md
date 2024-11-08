@@ -114,7 +114,7 @@ Este mundo contiene la simulación del algoritmo MPSO implementando un controlad
 | R2022b | 2023b  | 
 
 **Hardware**
-El hardware que se utilizó fueron los agentes robóticos pololu 3pi+, las cámaras de movimiento OptiTrack y la mesa del Robotat.
+<br> El hardware que se utilizó fueron los agentes robóticos pololu 3pi+, las cámaras de movimiento OptiTrack y la mesa del Robotat.
 
 <br><div align="center">
     <img src="Figuras/pololu.png" alt="Imagen robot pololu 3pi+" width="250"><br>
