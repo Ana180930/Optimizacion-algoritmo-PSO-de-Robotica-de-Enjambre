@@ -1,4 +1,4 @@
-#Experimento función optimización Schaffer 4
+# Experimento función optimización Schaffer 4
 <br><div align="center">
     <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
