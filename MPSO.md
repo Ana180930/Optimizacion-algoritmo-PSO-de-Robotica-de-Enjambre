@@ -1,9 +1,12 @@
+**Experimento función optimización Schaffer 4**
+<br><div align="center">
+    <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
+</div>
+
 ### Índice
 - [MPSO_pololu_original.lxs](#mpso_pololu_originallxs)
 - [MPSO_modified.lxs](#mpso_modifiedlxs)
 - [MPSO_simulado.lxs](#mpso_simuladolxs)
-- [MPSO_APF_simulado.lxs](#mpso_apf_simuladolxs)
-- [MPSO_APF_pololu.lxs](#mpso_apf_pololulxs)
 
 ### MPSO_pololu_original.lxs
 El live script **MPSO_pololu_original.lxs** presenta el algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+, este live script explica de forma detallada cada parte del código. Es importante mencionar algunas modificaciones realizadas para el correcto funcionamiento del MPSO:
@@ -26,11 +29,6 @@ El live script **MPSO_pololu_original.lxs** presenta el algoritmo de optimizaci�
     
 
 - **No colisiones entre los agentes robóticos**
-
-**Experimento función optimización Schaffer 4**
-<br><div align="center">
-    <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
-</div>
 
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
 
