@@ -3,7 +3,7 @@ El algoritmo PSO se inspira en el comportamiento colectivo de ciertos animales p
 
 ## Tabla de Contenidos
 - [Videos demostrativos](#videos-demostrativos)
-- [Códigos y guía de uso](#códigos-y-guía-de-uso)
+- [Códigos y guía de uso](#códigos)
 - [Software y hardware](#software-y-hardware)
 - [Información adicional](#información-adicional)
 
@@ -15,7 +15,7 @@ Al darle click en la imagen, podrás acceder a una lista de videos que muestran 
     </a>
 </div>
 
-## Códigos y guía de uso
+## Códigos 
 En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle de los códigos implementados.
 
 ## Matlab
