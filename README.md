@@ -14,7 +14,7 @@ Al darle click en la imagen, podrás acceder a una lista de videos que muestran 
 
 
 ## Códigos y guía de uso
-En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle de los códigos que se utilizaron para realizar los experimentos.
+En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle de los códigos implementados.
 
 ### Matlab
 ## Índice
