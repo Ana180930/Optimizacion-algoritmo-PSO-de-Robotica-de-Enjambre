@@ -15,8 +15,6 @@ Al darle click en la imagen, podrás acceder a una lista de videos que muestran 
     </a>
 </div>
 
-
-
 ## Códigos y guía de uso
 En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle de los códigos implementados.
 
