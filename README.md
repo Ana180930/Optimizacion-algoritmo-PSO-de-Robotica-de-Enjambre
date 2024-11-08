@@ -55,7 +55,7 @@ El live script **MPSO_pololu_original.lxs** presenta un algoritmo de optimizaci�
     <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
-Puedes encontrar el script en la carpeta _MPSO_pololu_original_ 
+Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
 
 ### MPSO_modified.lxs
 El live script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, el factor de incercia y el controlador PID.
@@ -107,11 +107,17 @@ Este mundo contiene la simulación del algoritmo MPSO implementando un controlad
 
 ### Software y hardware
 **Software**
-<br> Los programas utilizados fueron Matlab y Webots, en la siguiente tabla se presentan las versiones que se utilizaron: 
+<br> Los programas utilizados fueron Matlab y Webots, las versiones utilizadas se presentan en la siguiente tabla: 
 
 | **Matlab** | **Webots** | 
 |--------|--------|
 | R2022b | 2023b  | 
+
+Todos los experimentos se realizaron utilizando la computadora Lenovo Legion 5 16IRX9 con las siguientes especificaciones:
+
+|**Especificaciones**| 
+|--------------------|
+|                    | 
 
 **Hardware**
 <br> El hardware que se utilizó fueron los agentes robóticos pololu 3pi+, las cámaras de movimiento OptiTrack y la mesa del Robotat.
