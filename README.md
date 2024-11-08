@@ -96,8 +96,6 @@ Este mundo contiene la simulación del algoritmo MPSO original utilizando el ent
     <img src="Figuras/PSO_webots.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
-
-
 ### PSO_simulacion_4.wbt
 Este mundo contiene la simulación del algoritmo MPSO implementando un controlador PID vectorizado.
 
