@@ -10,7 +10,7 @@ A continuación, se muestra una guía de como utilizar el algoritmo MPSO modific
 ## Videos demostrativos
 Al darle click a la imagen podrás ver una lista de videos sobre los experimentos realizados en la optimización del algoritmo MPSO y el funcionamiento del algoritmo PSO con campos potenciales artifiales para la evasión de obstáculos.
 
-[![Ver el video en YouTube](Figuras/robotat.JPEG)]([https://www.youtube.com/watch?v=abcd1234](https://www.youtube.com/playlist?list=PLzFnfpUH2HcghOW6Uw1g37CLO4F0z6kMn))
+[![Ver el video en YouTube](Figuras/robotat.JPEG)]([https://www.youtube.com/playlist?list=PLzFnfpUH2HcghOW6Uw1g37CLO4F0z6kMn])
 
 
 
