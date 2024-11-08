@@ -1,5 +1,5 @@
-# _Modified Particle Swarm Optimization_
-## Experimento función optimización Schaffer 4
+# _Modified Particle Swarm Optimization_ (MPSO)
+### Experimento función optimización Schaffer 4
 <br><div align="center">
     <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
