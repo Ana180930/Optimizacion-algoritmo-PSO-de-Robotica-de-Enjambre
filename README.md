@@ -20,8 +20,8 @@ Al darle click en la imagen, podrás acceder a una lista de videos que muestran 
 ## Códigos y guía de uso
 En la carpeta *Códigos* en OneDrive se encuentran los códigos principales que se utilizaron en esta tesis. A continuación, se da mayor detalle de los códigos implementados.
 
-### Matlab
-## Índice
+## Matlab
+### Índice
 - [MPSO_pololu_original.lxs](#mpso_pololu_originallxs)
 - [MPSO_modified.lxs](#mpso_modifiedlxs)
 - [MPSO_simulado.lxs](#mpso_simuladolxs)
@@ -79,7 +79,7 @@ El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO implemen
 ### MPSO_APF_pololu.lxs
 El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales potenciales modificado, para su funcionamiento con agentes robóticos Pololu 3pi+ y el ecosistema Robotat.
 
-### Webots 
+## Webots 
 - [PSO_simulacion_original.wbt](#PSO_simulacion_original.wbt)
 - [PSO_simulacion_APF.wbt](#PSO_simulacion_APF.wbt)
 - [PSO_simulacion_4.wbt](#PSO_simulacion_4.wbt)
