@@ -9,10 +9,11 @@ El algoritmo PSO se inspira en el comportamiento colectivo de ciertos animales p
 
 ## Videos demostrativos
 Al darle click en la imagen, podrás acceder a una lista de videos que muestran los experimentos realizados en la optimización del algoritmo MPSO y el funcionamiento del algoritmo PSO con campos potenciales artifiales para la evasión de obstáculos.
-
-<a href="https://www.youtube.com/playlist?list=PLzFnfpUH2HcghOW6Uw1g37CLO4F0z6kMn">
-    <img src="Figuras/robotat.JPEG" alt="Imagen en el repositorio" width="500"/>
-</a>
+<br><div align="center">
+    <a href="https://www.youtube.com/playlist?list=PLzFnfpUH2HcghOW6Uw1g37CLO4F0z6kMn">
+        <img src="Figuras/robotat.JPEG" alt="Imagen en el repositorio" width="900"/>
+    </a>
+</div>
 
 
 
