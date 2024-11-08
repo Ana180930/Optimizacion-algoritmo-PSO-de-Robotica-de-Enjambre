@@ -98,7 +98,7 @@ Este mundo contiene la simulación del algoritmo MPSO original utilizando el ent
 Este mundo contiene la simulación del algoritmo MPSO implementando un controlador PID vectorizado.
 
 ### PSO_simulacion_APF.wbt
-Este mundo contiene la simulación del algoritmo PSO con campos potenciales artificiales para la evasión de obstáculos. Este algoritmo implementa cierta cantidad de partículas y agentes robóticos diferenciales.
+<br> Este mundo contiene la simulación del algoritmo PSO con campos potenciales artificiales para la evasión de obstáculos. Este algoritmo implementa cierta cantidad de partículas y agentes robóticos diferenciales.
 
 <br><div align="center">
     <img src="Figuras/APF_PSO_webots.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
@@ -107,7 +107,7 @@ Este mundo contiene la simulación del algoritmo PSO con campos potenciales arti
 
 ### Software y hardware
 **Software**
-Los programas utilizados fueron Matlab y Webots, en la siguiente tabla se presentan las versiones que se utilizaron: 
+<br> Los programas utilizados fueron Matlab y Webots, en la siguiente tabla se presentan las versiones que se utilizaron: 
 
 | **Matlab** | **Webots** | 
 |--------|--------|
