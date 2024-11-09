@@ -6,11 +6,12 @@
 
 ### Índice
 - [MPSO_pololu_original.lxs](#mpso_pololu_originallxs)
-- [MPSO_modified.lxs](#mpso_modifiedlxs)
 - [MPSO_simulado.lxs](#mpso_simuladolxs)
 
 ### MPSO_pololu_original.lxs
 El live script **MPSO_pololu_original.lxs** presenta el algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+, este live script explica de forma detallada cada parte del código. Es importante mencionar algunas modificaciones realizadas para el correcto funcionamiento del MPSO:
+
+El script **MPSO_pololu_original.lxs** contiene la implementación física del algoritmo de optimización _Particle Swarm Optimization_ (PSO) utilizando los robots diferenciales Pololu 3pi+ dentro del ecosistema Robotat. Este código se divide en tres partes: conexión al Robotat y a los robots pololu 3pi+, cálculo del algoritmo PSO y controlador PID.
 
 - **Controlador PID**
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
@@ -32,9 +33,6 @@ El live script **MPSO_pololu_original.lxs** presenta el algoritmo de optimizaci�
 - **No colisiones entre los agentes robóticos**
 
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
-
-### MPSO_modified.lxs
-El live script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, el factor de incercia y el controlador PID.
 
 ### MPSO_simulado.lxs
 El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cierta cantidad de partículas. En este script puede definirse el objetivo o meta del enjambre.
