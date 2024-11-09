@@ -9,9 +9,16 @@
 - [MPSO_simulado.lxs](#mpso_simuladolxs)
 
 ### MPSO_pololu_original.lxs
-El live script **MPSO_pololu_original.lxs** presenta el algoritmo de optimización llamado _Particle Swarm Optimization_ conocido por sus siglas como PSO, para encontrar la mejor posición de un enjambre de robots Pololu 3pi+, este live script explica de forma detallada cada parte del código. Es importante mencionar algunas modificaciones realizadas para el correcto funcionamiento del MPSO:
-
 El script **MPSO_pololu_original.lxs** contiene la implementación física del algoritmo de optimización _Particle Swarm Optimization_ (PSO) utilizando los robots diferenciales Pololu 3pi+ dentro del ecosistema Robotat. Este código se divide en tres partes: conexión al Robotat y a los robots pololu 3pi+, cálculo del algoritmo PSO y controlador PID.
+
+Para establecer la conexión al Robotat se debe acceder a la red llamada _Robotat_. Se utiliza la función _robotat_connect_() la cual permite crear un objeto TCP con una ip y puerto específico. Al establecer la conexión con el Robotat, se procede a conectar los robots pololu 3pi+. Cada robot posee un ID (número de identificación), es importante mencionar que en este script se deben de utilizar los robots con ID consecutivo:
+
+```matlab
+first_agent = 2;     % first number of 3pi available
+last_agent = 5;      % last number of 3pi available
+Q_Agents = last_agent-first_agent+1;
+```
+
 
 - **Controlador PID**
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
