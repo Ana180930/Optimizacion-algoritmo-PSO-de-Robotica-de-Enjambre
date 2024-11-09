@@ -1,5 +1,5 @@
 # MPSO modificado
-## Experimento video
+### Experimento video
 
 ### Índice
 - [MPSO_modified.lxs](#mpso_modifiedlxs)
