@@ -30,6 +30,11 @@ Se realizaron varias mejoras al algoritmo MPSO, comenzando con la incorporación
 
 [Ver documentación](MPSO_vec.md)
 
+### Algoritmo PSO con Campos potenciales artificiales
+Se implementaron campos potenciales artificiales para la evasión de obstáculos. El algoritmo PSO dirige al enjambre de robots pololu 3pi+, en el cual los robots son atraídos hacia la meta mediante el campo atractor y evitan los obstáculos debido a la fuerza repulsiva del campo repulsor.
+
+[Ver documentación](MPSO_APF.md)
+
 ### Software y hardware
 **Software**
 <br> Los programas utilizados fueron Matlab y Webots, las versiones utilizadas se presentan en la siguiente tabla: 
