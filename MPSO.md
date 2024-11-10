@@ -48,8 +48,6 @@ El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO 
 </div>
 
 ## Webots 
-- [PSO_simulacion_original.wbt](#PSO_simulacion_original.wbt)
-
 ### PSO_simulacion_original.wbt 
 Este mundo contiene la simulación del algoritmo MPSO original utilizando el entorno _Webots_. La estructura de la simulación se muestra a continuación:
 
