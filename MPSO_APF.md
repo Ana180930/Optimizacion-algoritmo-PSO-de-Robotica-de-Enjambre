@@ -17,7 +17,7 @@ El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales pot
 
 **Experimento 1: Un obstáculo rectángular**
 <br><div align="center">
-    <img src="Figuras/pso_apf_1.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/pso_apf_1.gif" width="400" height="auto" alt="Experimento con un obstáculo rectangular"><br>
 </div>
 
 ## Webots
