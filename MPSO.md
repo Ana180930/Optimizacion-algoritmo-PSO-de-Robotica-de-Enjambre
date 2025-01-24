@@ -37,7 +37,7 @@ Se realizaron ajustes al algoritmo MPSO, ya que en su primera implementación lo
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
 
 ### MPSO_simulado.lxs
-El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cierta cantidad de partículas. En este script puede definirse el objetivo o meta del enjambre.
+El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cantidad de partículas modificable y permite definir el objetivo del enjambre sin funciones de costo.
 
 **Experimento función de optimización meta**
 <br><div align="center">
