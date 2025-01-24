@@ -34,6 +34,10 @@ Se realizaron ajustes al algoritmo MPSO, ya que en su primera implementación lo
         <img src="Figuras/radio_convergencia.png" width="300" height="auto" alt="Radio de convergencia"><br>
     </div>
     
+**Experimento función de costo Sphere**
+<br><div align="center">
+    <img src="Figuras/shpere" width="400" height="auto" alt="Experimento función Schaffer 4"><br>
+</div>
 
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
 
