@@ -34,11 +34,6 @@ Se realizaron ajustes al algoritmo MPSO, ya que en su primera implementación lo
         <img src="Figuras/radio_convergencia.png" width="300" height="auto" alt="Radio de convergencia"><br>
     </div>
     
-**Experimento función de costo Sphere**
-<br><div align="center">
-    <img src="Figuras/sphere.gif" width="800" height="auto" alt="Experimento función Sphere"><br>
-</div>
-
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
 
 ### MPSO_simulado.lxs
