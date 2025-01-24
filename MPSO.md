@@ -36,7 +36,7 @@ Se realizaron ajustes al algoritmo MPSO, ya que en su primera implementación lo
     
 **Experimento función de costo Sphere**
 <br><div align="center">
-    <img src="Figuras/sphere.gif" width="400" height="auto" alt="Experimento función Sphere"><br>
+    <img src="Figuras/sphere.gif" width="800" height="auto" alt="Experimento función Sphere"><br>
 </div>
 
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
