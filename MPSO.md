@@ -35,8 +35,6 @@ Se realizaron ajustes al algoritmo MPSO, ya que en su primera implementación lo
     </div>
     
 
-- **No colisiones entre los agentes robóticos**
-
 Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
 
 ### MPSO_simulado.lxs
