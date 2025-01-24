@@ -16,7 +16,9 @@ El **MPSO_APF_simulado.lxs** presenta la simulación del algoritmo MPSO implemen
 El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales potenciales modificado, para su funcionamiento con agentes robóticos Pololu 3pi+ y el ecosistema Robotat.
 
 **Experimento 1: Un obstáculo rectángular**
-
+<br><div align="center">
+    <img src="Figuras/pso_apf_1.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
+</div>
 
 ## Webots
 - [PSO_simulacion_APF.wbt](#PSO_simulacion_APF.wbt)
