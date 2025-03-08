@@ -3,7 +3,7 @@ El algoritmo PSO se inspira en el comportamiento colectivo de ciertos animales p
 
 ## Tabla de Contenidos
 - [Videos demostrativos](#videos-demostrativos)
-- [Códigos y guía de uso](#códigos)
+- [Códigos](#códigos)
 - [Software y hardware](#software-y-hardware)
 - [Información adicional](#información-adicional)
 
