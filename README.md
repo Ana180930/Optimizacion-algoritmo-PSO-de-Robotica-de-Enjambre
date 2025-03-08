@@ -16,10 +16,6 @@ Al darle click en la imagen, se podrá acceder a una lista de videos que muestra
     </a>
 </div>
 
-
-## Códigos 
-En la carpeta *Códigos* en OneDrive se encuentran los códigos principales utilizados para el desarrollo de esta tesis. A continuación, se detallan cada uno ellos.
-
 ## Matlab
 ### Algoritmo MPSO 
 El algoritmo _Particle Swarm Optimization_ conocido por sus siglas como PSO, es un método de optimización que utiliza un enjambre de partículas para encontrar la mejor trayectoria hacia una meta en específico. El algoritmo _Modified Particle Swarm Optimization_ (MPSO) fue adaptado para implementar el PSO con agentes robóticos físicos, específicamente los robots pololu 3pi+, dentro del ecosistema Robotat. 
