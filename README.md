@@ -53,7 +53,10 @@ Los experimentos se realizaron utilizando la computadora Lenovo Legion 5 16IRX9 
 
 |**Especificaciones**| 
 |--------------------|
-|                    | 
+| Intel Core i7-14650HX |
+| NVIDIA Geforce RTX 4060 |
+| Memoria RAM 16 GB |
+| Disco duro 500 GB |
 
 **Hardware**
 <br> El hardware que se utilizaron fueron los agentes robóticos pololu 3pi+, las cámaras de movimiento OptiTrack y la plataforma del Robotat.
