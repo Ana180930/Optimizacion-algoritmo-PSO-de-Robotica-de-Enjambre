@@ -1,5 +1,5 @@
 # _Modified Particle Swarm Optimization_ (MPSO)
-### Experimento función optimización Schaffer 4
+### Experimento función optimización Schaffer 4 con el MPSO original
 <br><div align="center">
     <img src="Figuras/schaffer_4.gif" width="700" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
@@ -11,12 +11,12 @@
 ### MPSO_pololu_original.lxs
 El script **MPSO_pololu_original.lxs** contiene la implementación física del algoritmo de optimización _Particle Swarm Optimization_ (PSO) utilizando los robots diferenciales Pololu 3pi+ dentro del ecosistema Robotat. Este código se divide en tres partes: conexión al Robotat y a los robots pololu 3pi+, cálculo del algoritmo PSO y controlador PID.
 
-Para establecer la conexión al Robotat, es necesario conectarse a la red llamada _Robotat_. Luego, se utiliza la función _robotat_connect_(), que permite crear un objeto TCP con una IP y puerto específicos. Una vez establecida la conexión con el Robotat, se procede a conectar los robots pololu 3pi+, cada robot posee un número de identificación (ID). Es importante mencionar que, en este script, deben usarse los robots con IDs consecutivos por ejemplo: pololu 2, pololu 3 y pololu 4.
+Para establecer la conexión al Robotat es necesario conectarse a la red llamada _Robotat_. Luego, se utiliza la función _robotat_connect_(), que permite crear un objeto TCP con una IP y puerto específicos. Una vez establecida la conexión con el Robotat, se procede a conectar los robots pololu 3pi+, cada robot posee un número de identificación (ID). Es importante mencionar que en este script deben usarse los robots con IDs consecutivos por ejemplo: pololu 2, pololu 3 y pololu 4.
 
 Para conectar los robots pololu 3pi+, se utiliza la función _robotat_3pi_connect_(), la cual recibe como argumento el ID de cada robot.
 
 **Modificaciones realizadas al MPSO**
-Se realizaron ajustes al algoritmo MPSO, ya que en su primera implementación los agentes no lograban llegar a la meta. Las modificaciones incluyeron ajustes en el controlador PID y la incorporación de un radio de convergencia.
+Se realizaron ajustes al algoritmo MPSO, debido que en las primeras pruebas los agentes no lograban llegar a la meta. Las modificaciones incluyeron ajustes en el controlador PID y la incorporación de un radio de convergencia.
 
 - **Controlador PID**
     - Distancia entre ruedas: Se consideró la distancia entre las ruedas desde el punto de instalación.
@@ -34,19 +34,18 @@ Se realizaron ajustes al algoritmo MPSO, ya que en su primera implementación lo
         <img src="Figuras/radio_convergencia.png" width="300" height="auto" alt="Radio de convergencia"><br>
     </div>
     
-Puedes encontrar el script en la carpeta _MPSO_pololu_original_.
 
 ### MPSO_simulado.lxs
-El live script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cantidad de partículas modificable y permite definir el objetivo del enjambre sin funciones de costo.
+El script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cantidad de partículas modificable y permite definir el objetivo del enjambre sin utilizar funciones de costo.
 
-**Experimento función de optimización meta**
+**Experimento función de optimización hacia una meta en específico**
 <br><div align="center">
     <img src="Figuras/PSO_simulado.gif" width="400" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 ## Webots 
 ### PSO_simulacion_original.wbt 
-Este mundo contiene la simulación del algoritmo MPSO original utilizando el entorno _Webots_. La estructura de la simulación se muestra a continuación:
+Este mundo contiene la simulación del algoritmo MPSO original utilizando el entorno _Webots_. Esta simulación permitió validar los experimentos y algoritmos implementados.
 
 **Experimento función de costo Schaffer**
 <br><div align="center">
