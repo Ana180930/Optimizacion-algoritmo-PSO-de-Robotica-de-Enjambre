@@ -13,7 +13,7 @@ El script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al
 
 ### Experimento con factor de inercia vectorizado 
 <br><div align="center">
-    <img src="Figuras/booth_inercia.gif" width="700" height="auto" alt="Experimento parámetro de inercia vectorizado"><br>
+    <img src="Figuras/boot_inercia.gif" width="700" height="auto" alt="Experimento parámetro de inercia vectorizado"><br>
 </div>
 
 ## Webots 
