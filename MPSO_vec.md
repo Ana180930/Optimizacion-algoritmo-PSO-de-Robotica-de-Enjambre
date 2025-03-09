@@ -4,12 +4,17 @@
 - [PSO_simulacion_4.wbt](#PSO_simulacion_4.wbt)
 
 ### MPSO_modified.lxs
-El script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, el factor de incercia y el controlador PID.
+El script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, parámetro de incercia y el controlador PID.
 
-### Experimento con función Sphere vectorizada
+### Experimento con función Booth vectorizada
+<br><div align="center">
+    <img src="Figuras/booth_fitness_1.gif" width="700" height="auto" alt="Experimento función Booth vectorizada"><br>
+</div>
 
 ### Experimento con factor de inercia vectorizado 
-
+<br><div align="center">
+    <img src="Figuras/booth_inercia.gif" width="700" height="auto" alt="Experimento parámetro de inercia vectorizado"><br>
+</div>
 
 ## Webots 
 ### PSO_simulacion_4.wbt
