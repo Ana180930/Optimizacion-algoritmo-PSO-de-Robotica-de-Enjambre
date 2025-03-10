@@ -17,6 +17,9 @@ El script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al
 </div>
 
 ### Experimento con controlador PID vectorizado
+<br><div align="center">
+    <img src="Figuras/sphere_pid.gif" width="700" height="auto" alt="Experimento función Booth vectorizada"><br>
+</div>
 
 
 ## Webots 
