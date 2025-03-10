@@ -18,8 +18,12 @@ El script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al
 
 ### Experimento con controlador PID vectorizado
 
+
 ## Webots 
 ### PSO_simulacion_4.wbt
 Este mundo contiene la simulación del algoritmo MPSO implementando vectorización en el cálculo de la función de costo, el factor de inercia y el controlador PID.
 
+<br><div align="center">
+    <img src="Figuras/boot_fitness_webots.gif" width="700" height="auto" alt="Experimento función Booth vectorizada"><br>
+</div>
 
