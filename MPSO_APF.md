@@ -31,7 +31,7 @@ El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales pot
 </div>
 
 ## Webots
-- [PSO_simulacion_APF.wbt](#PSO_simulacion_APF.wbt)
+- [PSO_simulacion_APF.wbt](#pso_simulacion_APFwbt)
 
 ### PSO_simulacion_APF.wbt
 <br> Este mundo contiene la simulación del algoritmo PSO con campos potenciales artificiales para la evasión de obstáculos. Este algoritmo implementa cierta cantidad de partículas y agentes robóticos diferenciales.
