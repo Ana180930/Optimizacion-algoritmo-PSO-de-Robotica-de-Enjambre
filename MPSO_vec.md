@@ -27,6 +27,6 @@ El script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al
 Este mundo contiene la simulación del algoritmo MPSO implementando vectorización en el cálculo de la función de costo, el factor de inercia y el controlador PID.
 
 <br><div align="center">
-    <img src="Figuras/booth_fitness_webots.gif" width="700" height="auto" alt="Experimento función Booth vectorizada"><br>
+    <img src="Figuras/sphere_pid.gif" width="700" height="auto" alt="Experimento función Sphere con controlador PID vectorizado"><br>
 </div>
 
