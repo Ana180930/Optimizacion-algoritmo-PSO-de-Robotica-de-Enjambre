@@ -8,10 +8,10 @@ Este mundo contiene la simulación del algoritmo MPSO migrado al lenguaje de Pyt
 
 **Experimento 1: Funciónd de costo Schaffer con MPSO migrado a Python.**
 <br><div align="center">
-    <img src="Figuras/mpso_py_schaffer.gif" width="500" height="auto" alt="Experimento con función de costo Schaffer y MPSO migrado a Python"><br>
+    <img src="Figuras/mpso_py_schaffer.gif" width="750" height="auto" alt="Experimento con función de costo Schaffer y MPSO migrado a Python"><br>
 </div>
 
 **Experimento 2: Funciónd de costo Schaffer con MPSO migrado a Python implementando paralelización.**
 <br><div align="center">
-    <img src="Figuras/mpso_py_paral_schaffer.gif" width="500" height="auto" alt="Experimento con función de costo Schaffer y MPSO migrado a Python implementando paralelización"><br>
+    <img src="Figuras/mpso_py_paral_schaffer.gif" width="750" height="auto" alt="Experimento con función de costo Schaffer y MPSO migrado a Python implementando paralelización"><br>
 </div>
