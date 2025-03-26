@@ -36,10 +36,6 @@ El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales pot
 ### PSO_simulacion_APF.wbt
 <br> Este mundo contiene la simulación del algoritmo PSO con campos potenciales artificiales para la evasión de obstáculos. Este algoritmo implementa cierta cantidad de partículas y agentes robóticos diferenciales. Al igual que la implementación en físico, este algoritmo calcula los campos artificiales y el algoritmo PSO al mismo tiempo que encuentra las trayectorias libres de obstáculos.
 
-<br><div align="center">
-    <img src="Figuras/APF_PSO_webots.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
-</div>
-
 **Experimento 1: Un obstáculo rectangular**
 <br><div align="center">
     <img src="Figuras/pso_apf_1_wb.gif" width="500" height="auto" alt="Experimento con un obstáculo rectangular"><br>
