@@ -44,3 +44,23 @@ El **MPSO_APF_pololu.lxs** presenta el algoritmo PSO con campos artificiales pot
 <br><div align="center">
     <img src="Figuras/pso_apf_1_wb.gif" width="500" height="auto" alt="Experimento con un obstáculo rectangular"><br>
 </div>
+
+**Experimento 2: Dos obstáculos rectangulares**
+<br><div align="center">
+    <img src="Figuras/pso_apf_2_wb.gif" width="500" height="auto" alt="Experimento con dos obstáculo rectangular"><br>
+</div>
+
+**Experimento 3: Tres obstáculos rectangulares**
+<br><div align="center">
+    <img src="Figuras/pso_apf_3_wb.gif" width="500" height="auto" alt="Experimento con tres obstáculos rectangulares"><br>
+</div>
+
+**Experimento 3: Cuatro obstáculos rectangulares**
+<br><div align="center">
+    <img src="Figuras/pso_apf_4_wb.gif" width="500" height="auto" alt="Experimento con cuatro obstáculos rectangulares"><br>
+</div>
+
+**Experimento 3: Seis obstáculos rectangulares**
+<br><div align="center">
+    <img src="Figuras/pso_apf_5_wb.gif" width="500" height="auto" alt="Experimento con seis obstáculos rectangulares"><br>
+</div>
