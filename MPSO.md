@@ -10,7 +10,7 @@
 - [PSO_simulacion_original.wbt](#pso_simulacion_originalwbt)
 
 ### MPSO_pololu_original
-El script **MPSO_pololu_original.lxs** contiene la implementación física del algoritmo de optimización _Particle Swarm Optimization_ (PSO) utilizando los robots diferenciales Pololu 3pi+ dentro del ecosistema Robotat. Este código se divide en tres partes: conexión al Robotat y a los robots pololu 3pi+, cálculo del algoritmo PSO y controlador PID.
+El script **MPSO_pololu_original** contiene la implementación física del algoritmo de optimización _Particle Swarm Optimization_ (PSO) utilizando los robots diferenciales Pololu 3pi+ dentro del ecosistema Robotat. Este código se divide en tres partes: conexión al Robotat y a los robots pololu 3pi+, cálculo del algoritmo PSO y controlador PID.
 
 Para establecer la conexión al Robotat es necesario conectarse a la red llamada _Robotat_. Luego, se utiliza la función _robotat_connect_(), que permite crear un objeto TCP con una IP y puerto específicos. Una vez establecida la conexión con el Robotat, se procede a conectar los robots pololu 3pi+, cada robot posee un número de identificación (ID). Es importante mencionar que en este script deben usarse los robots con IDs consecutivos por ejemplo: pololu 2, pololu 3 y pololu 4.
 
@@ -37,7 +37,7 @@ Se realizaron ajustes al algoritmo MPSO, debido que en las primeras pruebas los 
     
 
 ### MPSO_simulado
-El script **MPSO_simulado.lxs** presenta la simulación del algoritmo MPSO con cantidad de partículas modificable y permite definir el objetivo del enjambre sin utilizar funciones de costo.
+El script **MPSO_simulado** presenta la simulación del algoritmo MPSO con cantidad de partículas modificable y permite definir el objetivo del enjambre sin utilizar funciones de costo.
 
 **Experimento función de optimización hacia una meta en específico**
 <br><div align="center">
