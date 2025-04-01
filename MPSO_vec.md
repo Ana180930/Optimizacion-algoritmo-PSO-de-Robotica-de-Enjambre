@@ -1,10 +1,10 @@
 # MPSO modificado
 ### Índice
-- [MPSO_modified.lxs](#mpso_modifiedlxs)
+- [MPSO_modified](#mpso_modifiedlxs)
 - [PSO_simulacion_4.wbt](#pso_simulacion_4wbt)
 
-### MPSO_modified.lxs
-El script **MPSO_modified.lxs** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, parámetro de incercia y el controlador PID.
+### MPSO_modified
+El script **MPSO_modified** presenta las modificaciones que se realizaron al algoritmo MPSO, utilizando vectorización para el cálculo de la función de costo, parámetro de incercia y el controlador PID.
 
 ### Experimento con función Booth vectorizada
 <br><div align="center">
