@@ -1,6 +1,6 @@
 # MPSO modificado
 ### Índice
-- [MPSO_modified](#mpso_modifiedlxs)
+- [MPSO_modified](#mpso_modified)
 - [PSO_simulacion_4.wbt](#pso_simulacion_4wbt)
 
 ### MPSO_modified
