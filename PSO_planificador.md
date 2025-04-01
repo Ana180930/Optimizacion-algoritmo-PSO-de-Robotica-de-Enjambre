@@ -9,27 +9,27 @@ Este script presenta la implementación del algoritmo PSO como planificador de t
 
 **Experimento 1: Un obstáculo rectangular**
 <br><div align="center">
-    <img src="Figuras/pso_planificador_1.gif" width="500" height="auto" alt="Experimento con un obstáculo rectangular"><br>
+    <img src="Figuras/pso_planificador_1.gif" width="550" height="auto" alt="Experimento con un obstáculo rectangular"><br>
 </div>
 
 **Experimento 2: Dos obstáculos rectangulares**
 <br><div align="center">
-    <img src="Figuras/pso_planificador_2.gif" width="500" height="auto" alt="Experimento con dos obstáculos rectangulares"><br>
+    <img src="Figuras/pso_planificador_2.gif" width="550" height="auto" alt="Experimento con dos obstáculos rectangulares"><br>
 </div>
 
 **Experimento 3: Tres obstáculos rectangulares**
 <br><div align="center">
-    <img src="Figuras/pso_planificador_3.gif" width="500" height="auto" alt="Experimento con tres obstáculos rectangulares"><br>
+    <img src="Figuras/pso_planificador_3.gif" width="550" height="auto" alt="Experimento con tres obstáculos rectangulares"><br>
 </div>
 
 **Experimento 4: Cuatro obstáculos rectangulares**
 <br><div align="center">
-    <img src="Figuras/pso_planificador_4.gif" width="500" height="auto" alt="Experimento con cuatro obstáculos rectangulares"><br>
+    <img src="Figuras/pso_planificador_4.gif" width="550" height="auto" alt="Experimento con cuatro obstáculos rectangulares"><br>
 </div>
 
 **Experimento 5: Seis obstáculos rectangulares**
 <br><div align="center">
-    <img src="Figuras/pso_planificador_5.gif" width="500" height="auto" alt="Experimento con seis obstáculos rectangulares"><br>
+    <img src="Figuras/pso_planificador_5.gif" width="550" height="auto" alt="Experimento con seis obstáculos rectangulares"><br>
 </div>
 
 ## PSO_simulacion_planificador.wbt
