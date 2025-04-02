@@ -9,8 +9,6 @@ El método de campos potenciales artificiales consiste en implementar un campo d
 ### MPSO_APF_simulado
 El **MPSO_APF_simulado** presenta la simulación del algoritmo MPSO implementando campos potenciales artificiales para la evasión de obstáculos, con cierta cantidad de partículas. Es importante considerar que entre mayor sea la cantidad de partículas, el algoritmo encuentra más rápido las trayectorias libres de obstáculos.
 
-Durante la implementación del algoritmo, se pudo observar que los agentes robóticos no lograban evadir correctamente los obstáculos. Para solucionar este problema, se incorporó el gradiente de los campos potenciales en la orientación del controlador PID, lo que permitió guiar a los robots hacia la meta, evadiendo los obstáculos.
-
 **Experimento obstáculo rectangular con MPSO y APF**
 <br><div align="center">
     <img src="Figuras/PSO_APF_simulado.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
@@ -18,6 +16,8 @@ Durante la implementación del algoritmo, se pudo observar que los agentes robó
 
 ### MPSO_APF_pololu
 El **MPSO_APF_pololu** presenta el algoritmo PSO con campos artificiales potenciales modificado, para su funcionamiento con agentes robóticos Pololu 3pi+ y el ecosistema Robotat. Es importante mencionar que esta implementación se realiza en tiempo real, es decir, se calcula el algoritmo PSO y los campos potenciales al mismo tiempo que se encuentran las trayectorias libres de obstáculos.
+
+Durante la implementación del algoritmo, se pudo observar que los agentes robóticos no lograban evadir correctamente los obstáculos. Para solucionar este problema, se incorporó el gradiente de los campos potenciales en la orientación del controlador PID, lo que permitió guiar a los robots hacia la meta, evadiendo los obstáculos.
 
 **Experimento 1: Un obstáculo rectangular**
 <br><div align="center">
