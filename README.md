@@ -33,7 +33,7 @@ Otra posible solución para mejorar el tiempo de ejecución fue migrar el algori
 [Ver documentación](MPSO_python.md)
 
 ### Algoritmo PSO con Campos potenciales artificiales
-El algoritmo PSO mejorado implementa la técnica de campos potenciales artificiales para la evasión de obstáculos. El algoritmo PSO dirige al enjambre de robots pololu 3pi+, en el cual los robots son atraídos hacia la meta mediante el campo atractor y evitan los obstáculos debido a la fuerza repulsiva del campo repulsor. Es importante mencionar que este algoritmo encuentra las trayectorias libres de obstáculos en tiempo real.
+Se realizaron las mejoras mencionadas anteriormente, con el objetivo de implementar el algoritmo PSO para la evasión de obstáculos utilizando el método de campos potenciales artificiales. El algoritmo PSO dirige al enjambre de agentes robóticos pololu 3pi+, donde los robots son atraídos hacia la meta mediante el campo atractor y evitan los obstáculos debido a la fuerza repulsiva del campo repulsor. Es importante mencionar que este algoritmo encuentra las trayectorias libres de obstáculos en tiempo real.
 
 [Ver documentación](MPSO_APF.md)
 
