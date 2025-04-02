@@ -28,7 +28,7 @@ El primer objetivo de este trabajo fue evaluar el algoritmo MPSO e identificar p
 [Ver documentación](MPSO_vec.md)
 
 ### Algoritmo MPSO migrado a Python
-Otra mejora que se realizó al algoritmo MPSO, fue la migración al lenguaje de programación Python, posterior a eso se implementó paralelización con Python para evaluar si el rendimiento del algoritmo era mejor.
+Otra posible solución para mejorar el tiempo de ejecución fue migrar el algoritmo MPSO al lenguaje de programación Python. Posterior a eso se implementó paralelización para evaluar si el rendimiento del algoritmo era mejor que el MPSO original. El método utilizado para la paralelización en Python es mediante el uso de hilos (threads).
 
 ### Algoritmo PSO con Campos potenciales artificiales
 El algoritmo PSO mejorado implementa la técnica de campos potenciales artificiales para la evasión de obstáculos. El algoritmo PSO dirige al enjambre de robots pololu 3pi+, en el cual los robots son atraídos hacia la meta mediante el campo atractor y evitan los obstáculos debido a la fuerza repulsiva del campo repulsor. Es importante mencionar que este algoritmo encuentra las trayectorias libres de obstáculos en tiempo real.
