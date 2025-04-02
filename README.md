@@ -38,7 +38,7 @@ Se realizaron las mejoras mencionadas anteriormente, con el objetivo de implemen
 [Ver documentación](MPSO_APF.md)
 
 ### Algoritmo PSO como planificador de trayectorias
-El algoritmo PSO fue implementado como planificador de trayectorias con el fin de comparar su rendimiento con el algoritmo PSO con campos potenciales artificiales en tiempo real. Este también implementa campos potenciales artificiales, pero la diferencia es el tiempo en que tarda en encontrar las trayectorias libres de obstáculos.
+El algoritmo PSO fue implementado como planificador de trayectorias con el fin de comparar su rendimiento con el algoritmo PSO con campos potenciales artificiales en tiempo real. Este también implementa campos potenciales artificiales, realizando primero la planificación de trayectorias libres de obstáculos, para luego realizar un seguimiento de trayectorias con los agentes robóticos.
 
 ### Software y hardware
 **Software**
