@@ -23,7 +23,7 @@ El algoritmo _Particle Swarm Optimization_ conocido por sus siglas como PSO, es 
 [Ver documentación](MPSO.md)
 
 ### Algoritmo MPSO vectorizado
-El primer objetivo de este trabajo fue evaluar el algoritmo MPSO e identicar posibles puntos de mejora en el código, lenguaje de programación y métodos de comunicación con el ecosistema Robotat, con el fin de optimizar el rendimiento, reduciendo el tiempo de convergencia y ejecución del algoritmo. La primera mejora consistió en la implementación de vectorización sin la necesidad de utilizar ciclos for.  
+El primer objetivo de este trabajo fue evaluar el algoritmo MPSO e identificar posibles puntos de mejora en el código, lenguaje de programación y métodos de comunicación con el ecosistema Robotat, con el fin de optimizar el rendimiento, reduciendo el tiempo de convergencia y ejecución del algoritmo. La primera mejora consistió en la implementación de vectorización sin la necesidad de utilizar ciclos for.  
 
 [Ver documentación](MPSO_vec.md)
 
