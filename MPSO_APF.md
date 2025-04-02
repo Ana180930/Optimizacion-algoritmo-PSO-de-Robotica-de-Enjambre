@@ -1,15 +1,17 @@
-# MPSO implementando Campos Artificiales Potenciales
+# MPSO implementando Campos potenciales Artificiales
 
 ### Índice
 - [MPSO_APF_simulado](#mpso_apf_simulado)
 - [MPSO_APF_pololu](#mpso_apf_pololu)
+
+El método de campos potenciales artificiales consiste en implementar un campo de fuerza atractiva para la meta y campos de fuerza repulsivos para los obstáculos, con el fin de que los agentes robóticos sean atraídos hacia la meta, evitando colisionar con los obstáculos. Para eso se creó un mapa utilizando occupancy grid con las dimensiones del Robotat.
 
 ### MPSO_APF_simulado
 El **MPSO_APF_simulado** presenta la simulación del algoritmo MPSO implementando campos potenciales artificiales para la evasión de obstáculos, con cierta cantidad de partículas. 
 
 **Experimento obstáculo rectangular con MPSO y APF**
 <br><div align="center">
-    <img src="Figuras/PSO_APF_simulado.gif" width="400" height="auto" alt="Experimento función Schaffer 4"><br>
+    <img src="Figuras/PSO_APF_simulado.gif" width="500" height="auto" alt="Experimento función Schaffer 4"><br>
 </div>
 
 ### MPSO_APF_pololu
