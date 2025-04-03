@@ -4,9 +4,9 @@
 - [PSO_APF_planificador.m](#pso_apf_planificadorm)
 - [PSO_simulacion_planificador.wbt](#pso_simulacion_planificadorwbt)
 
-El planicador emplea tres funciones para su correcto funcionamiento. La primera función se encarga de inicializar las trayectorias, velocidades, costos y mejores posiciones de cada robot (punto de inicio).
+El planificador emplea tres funciones para su correcto funcionamiento. La primera función se encarga de inicializar las trayectorias, velocidades, costos y mejores posiciones de cada robot (punto de inicio).
 
-La segunda función genera trayectorias iniciales aleatorias mediante el uso de un número máximo de pasos y pasos aleatorios, asegurando que las trayectorias tengan tamaño adecuado. Además, esta función verica si los puntos generadas para la trayectoria están ubicados sobre un obstáculo y se asegura que se alcanza el punto nal deseado. 
+La segunda función genera trayectorias iniciales aleatorias mediante el uso de un número máximo de pasos y pasos aleatorios, asegurando que las trayectorias tengan tamaño adecuado. Además, esta función verica si los puntos generadas para la trayectoria están ubicados sobre un obstáculo y se asegura que se alcanza el punto final deseado. 
 
 La tercer función calcula el costo asociado a cada punto de las trayectorias. Este cálculo penaliza las trayectorias que salen del mapa, aquellas que se aproximan demasiado a los obstáculos, y las que se alejan del objetivo nal
 
