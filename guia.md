@@ -18,17 +18,21 @@ En esta carpeta se encuentran los códigos implementados para el algoritmo _Part
 
 - **MPSO original**: Dentro de esta carpeta se encuentra el algoritmo _Modified Particle Swarm Optimization_ (MPSO) original implementado de forma física en el ecosistema Robotat (MPSO_pololu_original.mlx). También se incluye la simulación del algoritmo PSO en Matlab (MPSO_simulado.mlx).
 - **MPSO APF**: Dentro de esta carpeta se encuentra el algoritmo PSO con campos potenciales artificiales para la evasión de obstáculos, implementado de forma física (MPSO_APF_pololu.m). También se incluye la simulación del algoritmo PSO con los campos artificiales en Matlab (MPSO_APF_simulado.mlx).
+- **MPSO planificador**: Dentro de esta carpeta se encuentra el planificador de trayectorias implementando el algoritmo PSO y los campos artificiales potenciales para la evasión de obstáculos.
 
 ## Python
-En esta carpeta se encuentra la migración del código MPSO al lenguaje de Python.
+En esta carpeta se encuentra la migración del código MPSO al lenguaje de Python y algunas pruebas iniciales realizadas en la plataforma Robotat.
 
 ## Webots
-En esta carpeta se encuentran las simulaciones de los algoritmos mencionados anteriormente, en el entorno de simulación Webots. 
+En esta carpeta se encuentran las simulaciones de los algoritmos mencionados anteriormente en el entorno de simulación Webots. 
 
 - **controllers**: En esta carpeta se encuentran los controladores de los mundos creados.
+- **Worlds**: En esta carpeta se encuentran los siguientes mundos creados para los algoritmos:
     - **PSO_simulacion_4**: Mundo creado para la implementación del algoritmo PSO vectorizado. El controlador  del robot supervisor (más información en el repositorio de Github) implementado es main_controller_4 y el controlador para los robots diferenciales es pololu_pso_4.
     - **PSO_simulado_original**: Mundo creado para la implementación del algoritmo MPSO original. El controlador para el robot supervisor es main_controller_original y para los agentes robóticos es pololu_pso_original.
-    - **PSO con APF**: Controlador creado para la implementación del algoritmo PSO con los campos artificiales potenciales para la evasión de obstáculos. El controlador para el robot supervisor es main_controller_apf y para los agentes robóticos es pololu_controller_apf.
+    - **PSO_simulacion_APF**: Mundo creado para la implementación del algoritmo PSO con los campos artificiales potenciales para la evasión de obstáculos. El controlador para el robot supervisor es main_controller_apf y para los agentes robóticos es pololu_controller_apf.
+    - **PSO_simulacion_original_python**: Mundo creado para la migración del algoritmo MPSO al lenguaje de programación Python.
+    - **PSO_simulacion_planificador**: Mundo creado para implementar un seguidor de trayectorias utilizando el planificador con el algoritmo PSO.
 
 ## Documentos
 En esta sección se incluyen los documentos utilizados durante el desarrollo de esta tesis, protocolo, tesis, póster y presentación final. Estos documentos se encuentran ordenados de la siguiente forma:
