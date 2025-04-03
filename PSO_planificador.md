@@ -6,9 +6,9 @@
 
 El planificador emplea tres funciones para su correcto funcionamiento. La primera función se encarga de inicializar las trayectorias, velocidades, costos y mejores posiciones de cada robot (punto de inicio).
 
-La segunda función genera trayectorias iniciales aleatorias mediante el uso de un número máximo de pasos y pasos aleatorios, asegurando que las trayectorias tengan tamaño adecuado. Además, esta función verica si los puntos generadas para la trayectoria están ubicados sobre un obstáculo y se asegura que se alcanza el punto final deseado. 
+La segunda función genera trayectorias iniciales aleatorias mediante el uso de un número máximo de pasos y pasos aleatorios, asegurando que las trayectorias tengan tamaño adecuado. Además, esta función verifica si los puntos generadas para la trayectoria están ubicados sobre un obstáculo y se asegura que se alcanza el punto final deseado. 
 
-La tercer función calcula el costo asociado a cada punto de las trayectorias. Este cálculo penaliza las trayectorias que salen del mapa, aquellas que se aproximan demasiado a los obstáculos, y las que se alejan del objetivo nal
+La tercer función calcula el costo asociado a cada punto de las trayectorias. Este cálculo penaliza las trayectorias que salen del mapa, aquellas que se aproximan demasiado a los obstáculos, y las que se alejan del objetivo final.
 
 ## PSO_APF_planificador.m
 Este script presenta la implementación del algoritmo PSO como planificador de trayectorias utilizando campos potenciales artificiales. Es importante mencionar que este planificador cálcula de primero las trayectorias libres de obstáculos para luego poder implementarlas en los agentes robóticos pololu 3pi+.
