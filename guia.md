@@ -8,7 +8,7 @@ A continuación, se presenta una guía de uso de la documentación, que incluye 
 - [Multimedia](#multimedia)
 
 ## Código
-En esta sección se incluyen los códigos desarrollados durante la realización de la tesis, organizados tres carpetas, facilitando la navegación y el acceso a los archivos.
+En esta sección se incluyen los códigos desarrollados durante la realización de la tesis. Estos se encuentran organizados en tres carpetas, facilitando la navegación y el acceso a los archivos.
 - [Matlab](#matlab)
 - [Python](#python)
 - [Webots](#webots)
